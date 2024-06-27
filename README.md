@@ -10,11 +10,5 @@ If you use this code in your research, please cite:
   year={2024},
 }
 
-Fold	Precision	Recall	F1 Score	Validation Accuracy
-1	0.83	0.81	0.82	0.82
-2	0.81	0.81	0.82	0.82
-3	0.79	0.76	0.78	0.78
-4	0.77	0.76	0.77	0.79
-5	0.81	0.79	0.80	0.80
-Mean	0.802	0.786	0.798	0.802
-![image](https://github.com/aliasgher1996/Deep-Learning-Based-Plant-Health-State-Classification-Using-Image-Data/assets/142365993/cd89626d-d16c-4ef7-9187-741754e8e66c)
+![image](https://github.com/aliasgher1996/Deep-Learning-Based-Plant-Health-State-Classification-Using-Image-Data/assets/142365993/db511c4f-7f6c-4d8e-9e45-c80fa1f2d187)
+
