@@ -17,3 +17,4 @@ Fold	Precision	Recall	F1 Score	Validation Accuracy
 4	0.77	0.76	0.77	0.79
 5	0.81	0.79	0.80	0.80
 Mean	0.802	0.786	0.798	0.802
+![image](https://github.com/aliasgher1996/Deep-Learning-Based-Plant-Health-State-Classification-Using-Image-Data/assets/142365993/cd89626d-d16c-4ef7-9187-741754e8e66c)
