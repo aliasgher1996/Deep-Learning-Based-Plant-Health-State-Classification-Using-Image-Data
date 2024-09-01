@@ -7,12 +7,6 @@
  
 #### Citation:
 If you use this code in your research, please cite:
- @article{your_paper,
-  title={Deep-Learning-Based-Plant-Health-State-Classification-Using-Image-Data},
-  author={Syed Ali Asgher},
-  journal={Journal Name},
-  year={2024},
-}
 
 
 
